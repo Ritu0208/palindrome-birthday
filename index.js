@@ -221,7 +221,7 @@ function clickHandler(e) {
       }
 
     } else {
-      resultDiv.innerText = 'Yay! Your birthday is palindrome!';
+      resultDiv.innerText = 'Yay! Your birthday is a palindrome!';
     }
   }
 }
