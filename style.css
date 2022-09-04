@@ -10,8 +10,8 @@ body {
     color: white;
     border: 1px solid white;
     font-size: large;
-    color:darkblue;
-    background-image: url("image/birthday.jpg");
+    color:rgb(0, 0, 0);
+    background-image: url("image/birthday.png");
     background-size: cover;
   }
   h1{
@@ -19,7 +19,7 @@ body {
   }
   
    main {
-    
+    padding: 10rem 0px;
     text-align: center;
     height: 100%;
   }
@@ -37,7 +37,7 @@ body {
     margin: 2rem auto;
     padding: 0.5rem 2rem;
     display: block;
-    background: darkblue;
+    background: rgb(0, 0, 0);
     color: white;
     font-size: 20px;
     border-radius: 10px;
